@@ -5,8 +5,8 @@ Python libraries required to run the code:
 - numpy
 - matplotlib
 
-![Curve to Approximate (f(x) = cos(x))]()
+![Curve to Approximate (f(x) = cos(x))](https://github.com/danielsunjin/Cubic-Spline-Generator/blob/main/curve_to_approximate.png)
 
-![Cubic Spline Approximation]()
+![Cubic Spline Approximation](https://github.com/danielsunjin/Cubic-Spline-Generator/blob/main/cubic_spline_approximation.png)
 
-![Approximation Error]()
+![Approximation Error](https://github.com/danielsunjin/Cubic-Spline-Generator/blob/main/approximation_error.png)
