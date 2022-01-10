@@ -5,3 +5,8 @@ Python libraries required to run the code:
 - numpy
 - matplotlib
 
+![Curve to Approximate (f(x) = cos(x))]()
+
+![Cubic Spline Approximation]()
+
+![Approximation Error]()
