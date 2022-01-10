@@ -4,4 +4,3 @@ This repository contains my custom code for generating cubic splines in Python. 
 Python libraries required to run the code:
 - numpy
 - matplotlib
-
